@@ -20,3 +20,4 @@ public class Dice {
 }
 //test hilsen Frank
 	// Test Stefan
+	// Test Harald
