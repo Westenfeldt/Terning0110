@@ -13,8 +13,9 @@ Dice dice1 = new Dice();
 
     }
 
+
     @org.junit.Test
     public void rollMultiple() {
-        dice1.rollMultiple(2);
+        dice1.rollMultiple(60000);
     }
 }
